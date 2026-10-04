@@ -2,343 +2,113 @@
 
 This repository documents my journey into cybersecurity, with a focus on offensive security, web security, penetration testing, and bug bounty.
 
-I am using this repository to document what I learn, track my progress, practice technical skills, and build a portfolio over time.
-
-## 🎯 Goals
-
-* Find my first valid bug bounty
-* Develop strong foundations in cybersecurity
-* Understand systems deeply instead of only memorizing techniques
-* Learn how to independently investigate and understand vulnerabilities
-* Learn how to properly document and report security findings
-* Build a technical portfolio
-* Eventually work in cybersecurity, with the long-term goal of working at Hakai Security
-
-## 📚 Current Focus
-
-My current studies focus on:
-
-* Linux
-* Networking
-* C programming
-* Python
-* Web technologies
-* Web security
-* Reconnaissance
-* Pentesting
-* Bug bounty
-
-## 🧪 Practical Training
-
-My practical training includes:
-
-* pwn.college
-* PortSwigger Web Security Academy
-* Hack The Box
-* TryHackMe
-
-## 📈 Progress
-
-My progress is documented in the `progress/` directory.
-
-I use weekly progress logs to record:
-
-* What I studied
-* What I practiced
-* What I learned
-* Problems I encountered
-* How I solved them
-* What I still don't understand
-* What I want to improve next
-
-## 🧠 Notes
-
-The `notes/` directory contains technical notes about concepts I study.
-
-Topics include:
-
-* Linux
-* Networking
-* Programming
-* Web security
-* Cybersecurity
-
-## 🧪 Labs
-
-The `labs/` directory contains my practical training history and notes about completed labs and challenges.
-
-## ✍️ Write-ups
-
-The `writeups/` directory contains detailed explanations of interesting challenges, labs, and problems I have solved.
-
-The purpose is not only to show the solution, but to document my reasoning, mistakes, discoveries, and what I learned.
-
-## 🛠️ Projects
-
-The `projects/` directory contains personal projects related to programming and cybersecurity.
-
-## 📊 Initial Assessment
-
-**Starting date:** September 7, 2026
-
-**Initial perceived security level:** 4/10
-
-### Strongest areas
-
-* Independent research — 10/10
-* Linux fundamentals — 10/10
-* English reading — 9/10
-* Breaking problems into smaller problems — 8/10
-* Asking good questions — 8/10
-
-### Weakest areas
-
-My main weaknesses are currently related to:
-
-* Networking fundamentals
-* Web security fundamentals
-* Vulnerability discovery
-* Programming fundamentals
-* Debugging
-* Practical cybersecurity experience
-
-### Long-Term Goal
-
-I want to become someone who understands how systems work, understands why they fail, and can independently investigate, discover, and report security vulnerabilities.
-
-This repository is the record of that process.
-
-**Starting point: September 7, 2026.**
-# Cybersecurity Learning Journey
-
-This repository documents my journey into cybersecurity, with a focus on offensive security, web security, penetration testing, and bug bounty.
-
-I am using this repository to document what I learn, track my progress, practice technical skills, and build a portfolio over time.
-
-## 🎯 Goals
-
-* Find my first valid bug bounty
-* Develop strong foundations in cybersecurity
-* Understand systems deeply instead of only memorizing techniques
-* Learn how to independently investigate and understand vulnerabilities
-* Learn how to properly document and report security findings
-* Build a technical portfolio
-* Eventually work in cybersecurity, with the long-term goal of working at Hakai Security
-
-## 📚 Current Focus
-
-My current studies focus on:
-
-* Linux
-* Networking
-* C programming
-* Python
-* Web technologies
-* Web security
-* Reconnaissance
-* Pentesting
-* Bug bounty
-
-## 🧪 Practical Training
-
-My practical training includes:
-
-* pwn.college
-* PortSwigger Web Security Academy
-* Hack The Box
-* TryHackMe
-
-## 📈 Progress
-
-My progress is documented in the `progress/` directory.
-
-I use weekly progress logs to record:
-
-* What I studied
-* What I practiced
-* What I learned
-* Problems I encountered
-* How I solved them
-* What I still don't understand
-* What I want to improve next
-
-## 🧠 Notes
-
-The `notes/` directory contains technical notes about concepts I study.
-
-Topics include:
-
-* Linux
-* Networking
-* Programming
-* Web security
-* Cybersecurity
-
-## 🧪 Labs
-
-The `labs/` directory contains my practical training history and notes about completed labs and challenges.
-
-## ✍️ Write-ups
-
-The `writeups/` directory contains detailed explanations of interesting challenges, labs, and problems I have solved.
-
-The purpose is not only to show the solution, but to document my reasoning, mistakes, discoveries, and what I learned.
-
-## 🛠️ Projects
-
-The `projects/` directory contains personal projects related to programming and cybersecurity.
-
-## 📊 Initial Assessment
-
-**Starting date:** September 7, 2026
-
-**Initial perceived security level:** 4/10
-
-### Strongest areas
-
-* Independent research — 10/10
-* Linux fundamentals — 10/10
-* English reading — 9/10
-* Breaking problems into smaller problems — 8/10
-* Asking good questions — 8/10
-
-### Weakest areas
-
-My main weaknesses are currently related to:
-
-* Networking fundamentals
-* Web security fundamentals
-* Vulnerability discovery
-* Programming fundamentals
-* Debugging
-* Practical cybersecurity experience
-
-### Long-Term Goal
-
-I want to become someone who understands how systems work, understands why they fail, and can independently investigate, discover, and report security vulnerabilities.
-
-This repository is the record of that process.
-
-**Starting point: September 7, 2026.**
-# Cybersecurity Learning Journey
-
-This repository documents my journey of learning cybersecurity, with a focus on offensive security, web security, penetration testing, and bug bounty.
-
-I am using this repository to track my progress, document what I learn, and build a practical record of my development over time.
-
----
+My goal is to build strong technical foundations, develop practical skills, and learn how to independently investigate, understand, and report security vulnerabilities.
 
 ## 🎯 Goals
 
 * Find my first valid bug bounty vulnerability.
 * Develop strong foundations in cybersecurity.
-* Understand networking and web technologies deeply.
-* Become capable of finding and reporting vulnerabilities independently.
-* Build a cybersecurity portfolio.
-* Eventually work in cybersecurity, with the goal of joining Hakai Security.
-
----
+* Understand how systems work and why they fail.
+* Learn to investigate and reproduce vulnerabilities independently.
+* Improve my technical documentation and reporting skills.
+* Build a portfolio of practical work.
+* Eventually pursue a career in cybersecurity, with the long-term goal of working at Hakai Security.
 
 ## 📚 Current Focus
 
-My current focus is building strong fundamentals before trying to specialize too deeply.
+I am currently focusing on building strong fundamentals in:
 
-### Learning
-
-* Linux
+* Linux and operating systems
 * Networking
-* Programming
-
-  * C
-  * Python
+* Programming (C and Python)
 * Web technologies
 * Web security
-* Reconnaissance
-* Penetration testing
-* Bug bounty methodology
-
----
+* Vulnerability analysis and discovery
+* Penetration testing methodology
 
 ## 🧪 Practical Training
 
-I use legal and authorized training environments to develop my practical skills.
+I use legal and authorized training environments to develop my technical skills.
+
+My practical learning includes:
 
 * pwn.college
 * PortSwigger Web Security Academy
 * Hack The Box
 * TryHackMe
 
----
-
-## 📈 Progress
-
-My progress is documented in the [`progress/`](progress/) directory.
-
-I record:
-
-* What I learned
-* What I practiced
-* Problems I encountered
-* What I can do now that I couldn't do before
-* What I need to study next
-
-I also periodically reassess my skills to compare my current level with my previous level.
-
----
-
 ## 🗂️ Repository Structure
 
 ```text
 .
-├── progress/
-│   └── Monthly learning logs
-│
-├── notes/
-│   ├── linux/
-│   ├── networking/
-│   ├── programming/
-│   └── web-security/
-│
-├── labs/
-│   ├── pwn-college/
-│   ├── portswigger/
-│   └── hack-the-box/
-│
-└── writeups/
+├── progress/       # Learning logs and skill assessments
+├── notes/          # Technical notes and concepts
+├── labs/           # Practical exercises and completed labs
+├── writeups/       # Detailed analyses of challenges and findings
+└── projects/       # Personal programming and cybersecurity projects
 ```
 
----
+## 📈 Progress Tracking
+
+The `progress/` directory contains my learning logs and periodic skill assessments.
+
+I use these records to document:
+
+* What I studied and practiced
+* What I learned and can now do independently
+* Problems I encountered and how I approached them
+* Concepts I still need to understand
+* What I want to improve next
+
+The purpose is to track actual development over time, rather than simply count completed courses or hours studied.
+
+## 🧠 Technical Notes
+
+The `notes/` directory contains explanations, observations, and examples of technical concepts I study.
+
+These notes help me consolidate my understanding and create a personal reference for future research.
+
+## 🔬 Labs and Write-ups
+
+The `labs/` directory records practical exercises completed in authorized training environments.
+
+The `writeups/` directory contains more detailed analyses of selected challenges, including my reasoning, mistakes, discoveries, and lessons learned.
+
+My focus is on understanding the underlying concepts, not merely reproducing solutions.
+
+## 🛠️ Projects
+
+The `projects/` directory contains personal projects related to programming and cybersecurity as I develop and expand my practical skills.
 
 ## 📊 Initial Assessment
 
 **Starting date:** September 7, 2026
 
-**Overall perceived security level:** 4/10
+**Initial perceived cybersecurity level:** 4/10
 
-My strongest current areas are:
+### Strongest Areas
 
 * Independent research
 * Linux fundamentals
 * English reading
-* Breaking problems into smaller problems
-* Asking questions
+* Breaking complex problems into smaller steps
+* Asking questions and investigating unfamiliar concepts
 
-My biggest weaknesses are:
+### Areas for Improvement
 
-* Networking
-* Web security
+* Networking fundamentals
+* Web security fundamentals
 * Vulnerability discovery
-* Programming and debugging
-* Practical security experience
+* Programming fundamentals
+* Debugging
+* Practical cybersecurity experience
 
----
+This assessment represents my initial perception of my abilities, not an objective measurement of my overall skill.
 
 ## 🏆 Long-Term Goal
 
-My goal is not simply to collect certifications or complete courses.
+I want to become a security professional who understands how systems work, recognizes why they fail, and can independently investigate, discover, validate, and report security vulnerabilities.
 
-I want to understand how systems work, understand why they fail, and eventually be able to discover and report security vulnerabilities independently.
-
-This repository is a record of that process.
+This repository documents the process, including the progress, mistakes, and lessons learned along the way.
 
 **Starting point: September 7, 2026.**
